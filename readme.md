@@ -17,13 +17,10 @@ Github: https://github.com/Pinny008
 
 #
 
-<style>
-    .text{
-        text-align: center;
-    }
-</style>
 
-<div class="text">Střední průmyslová škola elektrotechniky a informatiky
-
+<p align="center">
+<i>
+Střední průmyslová škola elektrotechniky a informatiky
+</i>
 <img src="https://www.spsemoh.cz/logos/spsei-vektor-barevne.svg" width="150px" align-item="center">
-</div>
+</p>
